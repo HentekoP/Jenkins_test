@@ -36,7 +36,7 @@ int main() {
 	srand((unsigned int)time(NULL));
 
 	char input[256];
-	printf("ChatBotですよろしくお願いします！ネットワーク楽しいぜ\n");
+	printf("ChatBotですよろしくお願いします！ネットワーク楽しいぜ!!\n");
 	while (1) {
 		
 		printf("'|' を入力するとプログラムを終了します: ");
