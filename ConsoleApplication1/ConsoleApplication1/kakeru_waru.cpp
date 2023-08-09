@@ -9,7 +9,7 @@ int main(void) {
 	printf("b: ");
 	scanf_s("%d", &b);
 
-	int sum = a * b;
+	int sum = a * b
 	int difference = a / b;
 
 	printf("%d*%d", a, b);
