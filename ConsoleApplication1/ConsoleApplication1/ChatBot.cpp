@@ -40,7 +40,7 @@ int main() {
 
 	while (1) {
 		
-		printf("'|' を入力するとプログラムを終了します");
+		printf("'|' を入力するとプログラムを終了します/");
 		if (strcmp(input, "|\n") == 0) {
 
 		 return 0;
