@@ -6,7 +6,7 @@
 //int main(void) {
 //	int a, b;
 //	printf("足し算引き算をします。数字を入力してください\n");
-//	printf("a: ");
+//	printf("a?: ");
 //	scanf_s("%d",&a);
 //	printf("b: ");
 //	scanf_s("%d", &b);
